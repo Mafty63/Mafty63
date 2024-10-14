@@ -14,12 +14,8 @@
 <br/>
 
 <div align="center">
-  <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=107490630" target="_blank" style="display: block" align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=107490630&image_size=auto&color_scheme=dark" width="771" height="auto">
-      <img alt="Dashboard stats of @Mafty63" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=107490630&image_size=auto&color_scheme=light" width="771" height="auto">
-    </picture>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mafty63&theme=tokyonight" alt="mystreak"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mafty63&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 </div>
 
 <div align="center">
